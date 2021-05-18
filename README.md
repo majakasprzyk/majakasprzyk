@@ -1,4 +1,4 @@
-Hello  👋 My name is Maja and I am from Poland. I’m currently taking part in front-end developer course. I would like to increase my knowledge of html, css, Java Script, React and Redux. 
+Hello  👋 My name is Maja and I am from Poland.
 
 Have a nice day. :)
 <!--
